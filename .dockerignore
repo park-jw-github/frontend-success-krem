@@ -1,0 +1,25 @@
+# IntelliJ IDEA 설정 파일 및 디렉토리
+.idea/
+.gradle/
+
+# Visual Studio Code 설정 파일 및 디렉토리
+.vscode/
+
+# Git 설정 파일 및 디렉토리
+.git/
+.gitignore
+
+# Node.js 모듈과 의존성 관련 파일 및 디렉토리
+node_modules/
+
+# 빌드된 파일 및 디렉토리
+build/
+dist/
+
+# IDE 또는 빌드 도구 설정 파일
+*.iml
+*.ipr
+*.iws
+
+# 사용하지 않는 소스 코드 및 리소스 디렉토리
+src/**/*.test.js
